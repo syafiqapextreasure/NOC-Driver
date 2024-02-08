@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOC Driver</string>
+    <string name="facebook_app_id">1029382841024215</string>
+    <string name="fb_login_protocol_scheme">fb1029382841024215</string>
+    <string name="facebook_client_token">bdf664e526e6dfaa40b4dd28f67c4890</string>
+</resources>
